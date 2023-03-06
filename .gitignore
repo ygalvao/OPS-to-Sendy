@@ -1,0 +1,3 @@
+*.json
+*.conf
+__pycache__
